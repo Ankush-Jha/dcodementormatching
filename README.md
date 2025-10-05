@@ -105,27 +105,6 @@
 - **Code Font**: JetBrains Mono
 - **Sizes**: 12px, 14px, 16px, 20px, 24px, 32px
 
-## 🔒 Security Features
-
-- **JWT Authentication** with secure token handling
-- **Input Validation** on all endpoints
-- **Rate Limiting** to prevent abuse
-- **CORS Configuration** for secure cross-origin requests
-- **Password Hashing** with bcrypt
-- **SQL Injection Protection** with parameterized queries
-
-## 📊 Matching Algorithm
-
-The DCODE matching algorithm uses a multi-criteria scoring system:
-
-```javascript
-Compatibility Score = (
-  Technical Skill Overlap × 0.30 +
-  Availability Match × 0.25 +
-  Learning Style Compatibility × 0.20 +
-  Communication Preferences × 0.15 +
-  Goal Alignment × 0.10
-) × 100
 ```
 
 ### Scoring Factors
@@ -142,12 +121,6 @@ Compatibility Score = (
 - **AI Tools** for accelerating development
 - **Beta Testers** for valuable feedback and suggestions
 
-## 📞 Support & Contact
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/dcode-mentor-matching/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/dcode-mentor-matching/discussions)
-- **Email**: support@dcode-platform.com
-- **Discord**: [Join our community](https://discord.gg/dcode)
 
 ## 🗺️ Roadmap
 
