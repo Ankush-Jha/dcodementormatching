@@ -2,13 +2,12 @@
 
 <div align="center">
 
-![DCODE Logo](https://img.shields.io/badge/DCODE-Mentor%20Matching-00e676?style=for-the-badge&logo=code&logoColor=white)
+![DCODE Logo](https://dcode.codes/images/d.png)
 
 **Intelligent mentor-mentee matching platform for open source contributors**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00e676?style=flat-square)](https://your-demo-url.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-000000?style=flat-square&logo=github)](https://github.com/yourusername/dcode-mentor-matching)
-[![License](https://img.shields.io/badge/License-MIT-00e676?style=flat-square)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00e676?style=flat-square)](https://v0-dcodementormatching1.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-000000?style=flat-square&logo=github)](https://github.com/Ankush-Jha/dcodementormatching)
 
 </div>
 
