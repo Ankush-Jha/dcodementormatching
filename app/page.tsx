@@ -56,7 +56,7 @@ export default function HomePage() {
               journey
             </h1>
 
-            <p className="text-xl text-[color:var(--color-muted)] max-w-3xl mx-auto text-balance leading-relaxed">
+            <p className="text-xl text-[color:var(--color-muted-foreground)] max-w-3xl mx-auto text-balance leading-relaxed">
               DCODE uses advanced AI algorithms to match open source newcomers with experienced mentors based on skills,
               goals, availability, and learning style.
             </p>
@@ -99,7 +99,7 @@ export default function HomePage() {
                 <div className="text-4xl md:text-5xl font-bold text-[color:var(--color-primary)] mb-2">
                   {stat.value}
                 </div>
-                <div className="text-sm text-[color:var(--color-muted)]">{stat.label}</div>
+                <div className="text-sm text-[color:var(--color-muted-foreground)]">{stat.label}</div>
               </div>
             ))}
           </div>
@@ -113,7 +113,7 @@ export default function HomePage() {
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               How <span className="text-[color:var(--color-primary)]">DCODE</span> Works
             </h2>
-            <p className="text-[color:var(--color-muted)] text-lg">
+            <p className="text-[color:var(--color-muted-foreground)] text-lg">
               A comprehensive platform designed for successful mentorship
             </p>
           </div>
@@ -164,7 +164,7 @@ export default function HomePage() {
                   </div>
                 </div>
                 <h3 className="text-xl font-semibold mb-2 text-[color:var(--color-foreground)]">{feature.title}</h3>
-                <p className="text-[color:var(--color-muted)] leading-relaxed">{feature.description}</p>
+                <p className="text-[color:var(--color-muted-foreground)] leading-relaxed">{feature.description}</p>
               </div>
             ))}
           </div>
@@ -177,7 +177,7 @@ export default function HomePage() {
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
             Ready to start your <span className="text-[color:var(--color-primary)]">open source journey</span>?
           </h2>
-          <p className="text-xl text-[color:var(--color-muted)] mb-8">
+          <p className="text-xl text-[color:var(--color-muted-foreground)] mb-8">
             Join thousands of developers who have found their perfect mentor match
           </p>
           <Link href="/register">
@@ -197,7 +197,7 @@ export default function HomePage() {
         <div className="container mx-auto">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <Logo />
-            <div className="text-sm text-[color:var(--color-muted)]">
+            <div className="text-sm text-[color:var(--color-muted-foreground)]">
               © 2025 DCODE. Empowering open source mentorship.
             </div>
           </div>
